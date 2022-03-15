@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/beautia/static/css/main.71d0e2b8.css",
+    "main.js": "/beautia/static/js/main.09900d60.js",
+    "index.html": "/beautia/index.html",
+    "main.71d0e2b8.css.map": "/beautia/static/css/main.71d0e2b8.css.map",
+    "main.09900d60.js.map": "/beautia/static/js/main.09900d60.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71d0e2b8.css",
+    "static/js/main.09900d60.js"
+  ]
+}
