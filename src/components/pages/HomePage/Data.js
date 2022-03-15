@@ -7,7 +7,7 @@ export const homeObjOne = {
   description: "More defined. More conditioned. More beautiful lashes.",
   buttonLabel: "Get Started",
   imgStart: "",
-  img: "images/cream2.png",
+  img: "build/images/cream2.png",
   alt: "Credit Card",
 };
 
