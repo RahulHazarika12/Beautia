@@ -7,7 +7,7 @@ export const homeObjOne = {
   description: "More defined. More conditioned. More beautiful lashes.",
   buttonLabel: "Get Started",
   imgStart: "",
-  img: "https://unsplash.com/photos/j7pKVQrTUsM",
+  img: "https://images.unsplash.com/photo-1556229162-5c63ed9c4efb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1974&q=80",
   alt: "Credit Card",
 };
 
