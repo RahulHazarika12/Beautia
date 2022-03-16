@@ -7,7 +7,7 @@ export const homeObjOne = {
   description: "More defined. More conditioned. More beautiful lashes.",
   buttonLabel: "Get Started",
   imgStart: "",
-  img: "build/images/cream2.png",
+  img: "https://unsplash.com/photos/j7pKVQrTUsM",
   alt: "Credit Card",
 };
 
@@ -21,7 +21,7 @@ export const homeObjTwo = {
     "We have you covered no matter where you are located. Over 140 locations worldwide to ensure you have access anytime",
   buttonLabel: "Learn More",
   imgStart: "",
-  img: "images/svg-5.svg",
+  img: "https://unsplash.com/photos/VItxz6u036U",
   alt: "Vault",
 };
 
